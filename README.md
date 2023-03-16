@@ -8,7 +8,7 @@ O primeiro projeto de uma simples calculadora que fiz com PHP e MySql durante as
 
 > ### Tecnologia ulizada 💻
 
-Construída em PHP e MySql.
+Construída em PHP e MySql. <br>
 Segue abaixo algumas instruções para fazer a calculadora.
 
 
