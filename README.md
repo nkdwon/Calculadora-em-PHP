@@ -2,7 +2,7 @@
 
 > ### Sobre ✏️
 
-O primeiro projeto de uma simples calculadora feita com PHP e MySql 
+O primeiro projeto de uma simples calculadora feita com PHP e MySql durante as aulas e estudos de DevWeb
 
 ##
 
