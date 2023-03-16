@@ -23,6 +23,10 @@ Se não sabe como fazer a instalação e utilização de ambos, segue abaixo os 
 - [MySql Workbench](https://dev.mysql.com/downloads/workbench/) <br>
 ### Para instalação do MySql Workbench, basta clicar diretamente em download e seguir de acordo com as instruções do próprio installer.
 
+Depois de ter instalado e cumprido os requisitos anteriores, basta criar o seguinte banco de dados e seguir com o código já postado no repositório. <br> <br>
+ ![image](https://user-images.githubusercontent.com/99335774/225749300-c97a29f9-7d4c-4a4d-bc20-d3ffb9210691.png)
+
+
 ##
 
 > ### Importante ⚠️
