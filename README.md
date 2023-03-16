@@ -38,6 +38,6 @@ Caso contrário terá os seguintes problemas com seu código: <br><br>
 ##
 
 ### Se não souber do que se trata a codificação de caracteres ou como alterá-la, segue abaixo um documento de instrução. <br>
--[Codificação de Caracteres](https://github.com/nkdwon/Calculadora-em-PHP/files/10995675/Codificacao.de.Caracteres.pdf)
+- [Codificação de Caracteres](https://github.com/nkdwon/Calculadora-em-PHP/files/10995675/Codificacao.de.Caracteres.pdf)
 
 
